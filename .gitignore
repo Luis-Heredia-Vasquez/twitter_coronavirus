@@ -1,4 +1,12 @@
 # Byte-compiled / optimized / DLL files
+
+outputs/*.lang
+outputs/*.country
+outputs/*.log
+outputs/reduced.*
+__pycache__/
+*.pyc
+
 __pycache__/
 *.py[cod]
 *$py.class
